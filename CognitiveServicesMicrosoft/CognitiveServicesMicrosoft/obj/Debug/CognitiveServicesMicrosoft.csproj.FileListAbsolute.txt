@@ -1,0 +1,8 @@
+c:\users\slipk\documents\visual studio 2015\Projects\CognitiveServicesMicrosoft\CognitiveServicesMicrosoft\bin\Debug\CognitiveServicesMicrosoft.exe.config
+c:\users\slipk\documents\visual studio 2015\Projects\CognitiveServicesMicrosoft\CognitiveServicesMicrosoft\bin\Debug\CognitiveServicesMicrosoft.exe
+c:\users\slipk\documents\visual studio 2015\Projects\CognitiveServicesMicrosoft\CognitiveServicesMicrosoft\bin\Debug\CognitiveServicesMicrosoft.pdb
+c:\users\slipk\documents\visual studio 2015\Projects\CognitiveServicesMicrosoft\CognitiveServicesMicrosoft\bin\Debug\RestSharp.dll
+c:\users\slipk\documents\visual studio 2015\Projects\CognitiveServicesMicrosoft\CognitiveServicesMicrosoft\bin\Debug\RestSharp.xml
+c:\users\slipk\documents\visual studio 2015\Projects\CognitiveServicesMicrosoft\CognitiveServicesMicrosoft\obj\Debug\CognitiveServicesMicrosoft.csprojResolveAssemblyReference.cache
+c:\users\slipk\documents\visual studio 2015\Projects\CognitiveServicesMicrosoft\CognitiveServicesMicrosoft\obj\Debug\CognitiveServicesMicrosoft.exe
+c:\users\slipk\documents\visual studio 2015\Projects\CognitiveServicesMicrosoft\CognitiveServicesMicrosoft\obj\Debug\CognitiveServicesMicrosoft.pdb
